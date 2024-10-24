@@ -1,0 +1,189 @@
+{
+    "drug-interactions": [
+      {
+        "name": "BCG vaccine",
+        "description": "The therapeutic efficacy of BCG vaccine can be decreased when used in combination with Enmetazobactam."
+      },
+      {
+        "name": "Typhoid vaccine",
+        "description": "The therapeutic efficacy of Typhoid vaccine can be decreased when used in combination with Enmetazobactam."
+      },
+      {
+        "name": "Dicoumarol",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Dicoumarol."
+      },
+      {
+        "name": "Phenindione",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Phenindione."
+      },
+      {
+        "name": "Warfarin",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Warfarin."
+      },
+      {
+        "name": "Phenprocoumon",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Phenprocoumon."
+      },
+      {
+        "name": "Acenocoumarol",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Acenocoumarol."
+      },
+      {
+        "name": "4-hydroxycoumarin",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with 4-hydroxycoumarin."
+      },
+      {
+        "name": "Coumarin",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Coumarin."
+      },
+      {
+        "name": "(R)-warfarin",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with (R)-warfarin."
+      },
+      {
+        "name": "Ethyl biscoumacetate",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Ethyl biscoumacetate."
+      },
+      {
+        "name": "Fluindione",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Fluindione."
+      },
+      {
+        "name": "Clorindione",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Clorindione."
+      },
+      {
+        "name": "Diphenadione",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Diphenadione."
+      },
+      {
+        "name": "Tioclomarol",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with Tioclomarol."
+      },
+      {
+        "name": "(S)-Warfarin",
+        "description": "The risk or severity of bleeding can be increased when Enmetazobactam is combined with (S)-Warfarin."
+      },
+      {
+        "name": "Vibrio cholerae CVD 103-HgR strain live antigen",
+        "description": "The therapeutic efficacy of Vibrio cholerae CVD 103-HgR strain live antigen can be decreased when used in combination with Enmetazobactam."
+      },
+      {
+        "name": "Estetrol",
+        "description": "The therapeutic efficacy of Estetrol can be decreased when used in combination with Enmetazobactam."
+      },
+      {
+        "name": "Lidocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Lidocaine."
+      },
+      {
+        "name": "Ropivacaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Ropivacaine."
+      },
+      {
+        "name": "Bupivacaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Bupivacaine."
+      },
+      {
+        "name": "Cinchocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Cinchocaine."
+      },
+      {
+        "name": "Dyclonine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Dyclonine."
+      },
+      {
+        "name": "Procaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Procaine."
+      },
+      {
+        "name": "Prilocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Prilocaine."
+      },
+      {
+        "name": "Proparacaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Proparacaine."
+      },
+      {
+        "name": "Meloxicam",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Meloxicam."
+      },
+      {
+        "name": "Oxybuprocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Oxybuprocaine."
+      },
+      {
+        "name": "Cocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Cocaine."
+      },
+      {
+        "name": "Mepivacaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Mepivacaine."
+      },
+      {
+        "name": "Levobupivacaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Levobupivacaine."
+      },
+      {
+        "name": "Diphenhydramine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Diphenhydramine."
+      },
+      {
+        "name": "Benzocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Benzocaine."
+      },
+      {
+        "name": "Chloroprocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Chloroprocaine."
+      },
+      {
+        "name": "Phenol",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Phenol."
+      },
+      {
+        "name": "Tetrodotoxin",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Tetrodotoxin."
+      },
+      {
+        "name": "Ambroxol",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Ambroxol."
+      },
+      {
+        "name": "Benzyl alcohol",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Benzyl alcohol."
+      },
+      {
+        "name": "Capsaicin",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Capsaicin."
+      },
+      {
+        "name": "Etidocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Etidocaine."
+      },
+      {
+        "name": "Articaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Articaine."
+      },
+      {
+        "name": "Tetracaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Tetracaine."
+      },
+      {
+        "name": "Propoxycaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Propoxycaine."
+      },
+      {
+        "name": "Pramocaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Pramocaine."
+      },
+      {
+        "name": "Butamben",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Butamben."
+      },
+      {
+        "name": "Cetacaine",
+        "description": "The risk or severity of methemoglobinemia can be increased when Enmetazobactam is combined with Cetacaine."
+      }
+    ]
+  }
+  
